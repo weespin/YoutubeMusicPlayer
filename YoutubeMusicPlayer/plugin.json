@@ -1,0 +1,12 @@
+{
+  "ID": "5C0BFEC0DF7011E695980800200C9A66",
+  "ActionKeyword": "ytm",
+  "Name": "Youtube Music Player",
+  "Description": "Play Youtube Music in Wox",
+  "Author": "Weespin",
+  "Version": "1.0.0",
+  "Language": "csharp",
+  "Website": "https://github.com/suteudragos/YoutubeQuery",
+  "ExecuteFileName": "YoutubeMusicPlayer.dll",
+  "IcoPath": "icon.png"
+}
